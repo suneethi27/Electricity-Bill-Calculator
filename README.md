@@ -37,7 +37,7 @@ The Electricity Bill Calculator is a Java GUI application designed to simplify e
 
 ## 📷 Application Screenshot
 
-Add your project screenshot here.
+![Electricity Bill Calculator](YOUR_IMAGE_FILENAME)
 
 ## 🚀 How to Run
 
